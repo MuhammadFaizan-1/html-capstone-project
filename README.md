@@ -29,7 +29,8 @@ Building the foundation for more advanced web projects.
 
 # 📸 Demo Screenshot
 
-<img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/7a9641af-48f6-48ce-8185-cba6e9deb6a6" />
+<img width="1121" height="878" alt="image" src="https://github.com/user-attachments/assets/a80ccb59-b087-40b8-b8b7-2d79675ebb4c" />
+
 
 # 📬 Contact
 
@@ -37,6 +38,4 @@ Created by Muhammad Faizan
 
 📧 Email: muhammadfaizan20505@gmail.com
 
-🌐 Portfolio: (Add link later)
-
-💼 LinkedIn: (Your LinkedIn)
+💼 LinkedIn: in/muhammad-faizan-992b86320
