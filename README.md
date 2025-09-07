@@ -7,7 +7,7 @@ This project is part of the Angela Yu Web Development Bootcamp. It is a personal
 
 📑 Multi-page structure – includes sections like About Me, Education, Experience, Skills, and Contact.
 
-🖼 Semantic HTML – clean structure with headings, lists, tables, and links.
+🖼 Semantic HTML – clean structure with headings, lists and links.
 
 🌐 Navigation – internal links for easy movement between pages.
 
